@@ -20,54 +20,54 @@ var data = [{
     "question": "Tell an embarrassing Christmas story."
   },
   {
-      "label": "???",
+      "label": "Speech or Shot.",
       "value": 2,
       "question": "Speech or Shot."
     },
     {
-        "label": "???",,
+        "label": "You are an Elf of the Shelf",
         "value": 3,
         "question": "You are an Elf of the Shelf and can only move when no one is watching for the rest of the game."
       },
       {
-          "label": "???",
+          "label": "Send a text to a random number",
           "value": 4,
           "question": "Send a text to a random number (that we’ll pick) in your phone book."
         },
         {
-            "label": "???",
+            "label": "Go on Facebook Live and read the back of a shampoo bottle",
             "value": 5,
             "question": "Go on Facebook Live and read the back of a shampoo bottle."
           },
           {
-              "label": "???",
+              "label": "Call a random number and sing Happy Birthday",
               "value": 6,
               "question": "Call a random number and sing Happy Birthday."
             },
             {
-                "label": "???",
+                "label": "Silently do the macarena",
                 "value": 7,
                 "question": "Silently do the macarena."
               },
               {
-                  "label": "???",
+                  "label": "Sing a song chosen by the group",
                   "value": 8,
                   "question": "Sing a song chosen by the group while eating spoonfuls of peanut butter/marmite."
                 },
                 {
-                    "label": "???",
+                    "label": "Lip Sync Battle",
                     "value": 9,
                     "question": "Lip Sync Battle (2 players required) "
                   },
                   {
-                      "label": "???",
+                      "label": "Minus 10 points",
                       "value": 10,
                       "question": "Minus 10 points."
                     },
                     {
-                        "label": "???",
+                        "label": "Your name is now Kneel Penis",
                         "value": 9,
-                        "question": "???",
+                        "question": "Your name is now Kneel Penis, anyone who says otherwise has to drink.",
                       },
 
 ];
